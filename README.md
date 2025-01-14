@@ -6,7 +6,7 @@ I am a passionate **backend developer** with experience in building reliable and
 ---
 
 ## 🛠 Skills & Tools
-- **Languages & Frameworks:** Java, C#, Spring Boot, DotNet, Lombok
+- **Languages & Frameworks:** Java, C#, Spring Boot, .Net Core, Lombok
 - **Event Streaming:** Apache Kafka (message producers, consumers, manual consumption)
 - **Databases:** MSSQL, H2, MySQL, PostgreSQL
 - **Development Practices:** RESTful APIs, MVC Architecture, Secure Authentication (JWT)
